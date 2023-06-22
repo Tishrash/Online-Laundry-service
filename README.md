@@ -1,4 +1,4 @@
-# ooc-project-IT21167300
+# ooc-project
 ooc-project-IT21167300 created by GitHub Classroom
 
 Maduranga D.B.W.N (IT21170270)--> <br>
